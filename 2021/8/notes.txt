@@ -1,0 +1,11 @@
+ab  must point to c or f
+
+
+7 d a b
+1 a b
+
+4 b d c f
+
+
+
+d -> a
